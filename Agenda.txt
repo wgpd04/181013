@@ -1,0 +1,103 @@
+HTML5 智慧型手機與平板 App 設計
+
+
+授課時數: 48小時，十六堂課，每堂課三小時。
+
+
+1. 網站內容設計與動線規畫 
+  - 網站動線規畫 
+  - 網頁切版與範例觀摩 
+  - 課程大綱預告與示範 
+  - HTML5 各項技術與應用總覽
+2. Responsive Design 實例演練 
+  - Medial Query 的語法與效果 
+  - ViewPort 語法 
+  - 實例研討因應不同裝置大小與解析度，如何調整版型、字體、圖片 
+  - 探討 Bootstrap 如何進行 Responsive Design 
+  - 探討 jQuery Mobile 如何進行 Responsive Design
+3. CSS3 動畫與特效 
+  - HTML5 與 CSS3 的動畫特效技術總覽 
+  - 評選 CSS3 動畫與特效元件 
+  - 試用 CSS3 元件並且練習如何整合進既有網頁 
+  - 自訂與套用 CSS3 元件的常問問題（例如: Specificity）
+4. Bootstrap 網站實作與範例賞析 
+  - 試用與自訂 Bootstrap 套件 
+  - 練習 Bootstrap 的版面分割功能 
+  - 解說 Bootstrap 的色彩系統 
+  - 試用 Bootstrap 常用元件 
+  - 觀摩並評選 Bootstrap 樣版範例 
+  - 練習套用樣版範例，建構一個描述某人、事、物的網站作品
+5. 表單設計與資料處理 
+  - 表單與各式控制項的語法及其注意事項 
+  - Bootstrap 的表單設計 
+  - Server 端例如 PHP 與 ASP.NET 如何接收並處理資料 
+  - 研討下列資料處理模式的優劣: 
+  - 表單頁 POST 資料給另一個處理頁 
+  - 表單頁同時身兼資料處理頁 
+  - 以 AJAX 與 Server 端進行資料交換（稍後課程會詳談）
+6. 活用 jQuery Mobile 元件 
+  - jQuery Mobile 的版型設計 
+  - jQuery Mobile 的導覽列與換頁注意事項 
+  - ListView 元件深入研討 
+  - 解說 Table 的 ColumnToggle 模式 
+  - 應用 Panel 側滑元件 
+  - jQuery Mobile 的表單設計
+7. JavaScript精華 
+  - JavaScript 語法要點整理 
+  - JSON 語法與資料處理 
+  - 著名 JavaScript 函式庫簡介
+8. 常用 jQuery API 要點整理 
+  - Selector 語法重點整理 
+  - 以 jQuery 存取元素內容與屬性 
+  - 以 jQuery 調控 CSS 樣式 
+  - jQuery 事件處理函式 
+  - 其他常用 jQuery API
+
+9. 鍵盤、滑鼠事件與拖曳處理 
+  - JavaScript 與 jQuery 如何綁定事件與事件處理函式 
+  - 解說與使用 Event Object 
+  - 各式鍵盤事件觸發時機與函式寫作注意事項 
+  - 滑鼠事件處理權與座標換算 
+  - Event Bubbling、propagation 與 preventDefault 觀念解說 
+  - 實作 HTML5 的拖放功能(Drag and Drop)
+10. Canvas 影像效果處理 
+  - Canvas 2D Rendering Engine 簡介 
+  - 色彩與樣式 
+  - 如何畫線、弧、矩型、文字、圖片。 
+  - 作圖區域的座標位移、旋轉、縮放與裁切。 
+  - Canvas 2D Rendering Engine 的 getImageData() 與影像處理 
+  - Data URIs 簡介與 Canvas.toDataURL() 函式使用說明
+11. Canvas 與動畫遊戲 
+  - 常用數學與物理公式 
+  - 動畫遊戲架構 -
+  - Update and Draw 
+  - 回應使用者的滑鼠與鍵盤操作 
+  - 實例研討一步一步完成範例遊戲
+12. AJAX 通訊整合 
+  - AJAX 觀念與應用實例 
+  - jQuery 的 AJAX 相關 API 函式 
+  - 以 jQuery 整合 RESTful 網路服務 
+  - Same Origin Policy 限制與跨網域傳輸解決方案
+13. 伺服器推播技術 
+  - Server Sent Event 
+  - Chunked transfer encoding (分塊傳輸編碼) 
+  - 以 WebSocket 進行 Client/Server 雙向即時互動 
+  - 示範 Node.JS、PHP、ASP.NET 如何寫作 WebSocket Server
+14. 設計離線執行程式 
+  - HTML5 Application Cache 
+  - LocalStorage 與 SessionStorage 
+  - JSON 與資料處理 
+  - OpenData 與資料 CRUD
+15. HTML5 安全攻防實例 
+  - 資訊安全觀念 
+  - SQL Injection 
+  - Cookie 的安全注意事項 
+  - 雜湊、加密解密 
+  - Same-origin Policy（SOP） 
+  - 跨站攻擊(XSS) 
+  - 跨站假要求(CSRF) 
+  - 點擊綁架（ClickJacking）
+16. 建立統計圖表/學習成果驗收 
+  - 試用與評選統計圖元件 
+  - 學習如何套用統計圖元件 
+  - 學員發表小專題作品
